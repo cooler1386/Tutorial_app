@@ -1,3 +1,5 @@
+package arrayList;
+
 public interface IPhone {
 
     public void getInfo();

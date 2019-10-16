@@ -1,3 +1,5 @@
+package arrayList;
+
 public class Smartphone extends Phone {
     public Smartphone(int imei) {
         super(imei);

@@ -1,3 +1,5 @@
+package arrayList;
+
 public class Phone implements IPhone {
 
     public Phone(int imei) {
